@@ -91,7 +91,7 @@ uvicorn fast_api:app --reload
 
 ## 👨‍💻 Author
 
-Farhan Naushad  
+ Md Farhan Naushad  
 📧 farhannaushad08@gmail.com
 📦 GitHub: [@farhannaushad08](https://github.com/farhannaushad08)
 
