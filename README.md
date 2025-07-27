@@ -11,7 +11,7 @@ Both projects are modular and self-contained.
 
 ## 📁 Project Structure
 
-
+```
 FastAPI-with-ML/
 ├── fastapi-crud/          # CRUD API for managing patient records
 │   ├── fast_api.py
@@ -27,7 +27,7 @@ FastAPI-with-ML/
 │   └── README.md
 │
 └── README.md              # ← You are here
-
+```
 
 ---
 
