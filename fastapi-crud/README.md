@@ -1,12 +1,12 @@
-# 🏥 FastAPI CRUD – Patient Management System
+# FastAPI CRUD – Patient Management System
 
 This is a fully functional REST API built with **FastAPI** that allows you to manage patient records stored in a JSON file. It supports all major HTTP methods including `GET`, `POST`, `PUT`, `PATCH`, `DELETE`, `OPTIONS`, `HEAD`, `TRACE`, and `CONNECT`.
 
 ---
 
-## 📁 Folder: `fastapi-crud/`
+## Folder: `fastapi-crud/`
 
-### 🩺 Features
+### Features
 
 - Add, view, update, delete, and sort patient records
 - Computes **BMI** and **health verdict** (e.g., *Normal*, *Overweight*, etc.)
@@ -17,7 +17,7 @@ This is a fully functional REST API built with **FastAPI** that allows you to ma
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -35,7 +35,7 @@ uvicorn fast_api:app --reload
 
 ---
 
-## 🧪 API Endpoints
+## API Endpoints
 
 | Method | Endpoint              | Description                          |
 |--------|------------------------|--------------------------------------|
@@ -55,7 +55,7 @@ uvicorn fast_api:app --reload
 
 ---
 
-## 📊 JSON Data Format
+## JSON Data Format
 
 ```json
 "P001": {
@@ -72,7 +72,7 @@ uvicorn fast_api:app --reload
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - Pydantic
@@ -81,7 +81,7 @@ uvicorn fast_api:app --reload
 
 ---
 
-## 🧩 Future Enhancements
+## Future Enhancements
 
 - Replace JSON with SQLite or PostgreSQL
 - Add authentication/authorization
@@ -89,14 +89,14 @@ uvicorn fast_api:app --reload
 
 ---
 
-## 👨‍💻 Author
+## Author
 
  Md Farhan Naushad  
-📧 farhannaushad08@gmail.com
-📦 GitHub: [@farhannaushad08](https://github.com/farhannaushad08)
+ farhannaushad08@gmail.com
+ GitHub: [@farhannaushad08](https://github.com/farhannaushad08)
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source and free to use under the MIT License.
