@@ -1,12 +1,12 @@
-# 🤖 FastAPI ML – Insurance Premium Category Predictor
+# FastAPI ML – Insurance Premium Category Predictor
 
 This project demonstrates a complete ML pipeline for predicting insurance premium categories based on user inputs like age, BMI, income, etc. It includes a FastAPI backend and a Streamlit frontend.
 
 ---
 
-## 📁 Folder: `fastapi-ml/`
+## Folder: `fastapi-ml/`
 
-### 🧠 Features
+### Features
 
 - Predicts insurance premium category (e.g., low, medium, high)
 - FastAPI backend (`backend.py`) serves ML model via `/predict`
@@ -17,7 +17,7 @@ This project demonstrates a complete ML pipeline for predicting insurance premiu
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -39,7 +39,7 @@ streamlit run frontend.py
 
 ---
 
-## 📊 Example API Input
+## Example API Input
 
 ```json
 {
@@ -55,7 +55,7 @@ streamlit run frontend.py
 
 ---
 
-## 📦 API Output (Updated)
+## API Output (Updated)
 
 ```json
 {
@@ -73,7 +73,7 @@ streamlit run frontend.py
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - FastAPI
@@ -84,13 +84,13 @@ streamlit run frontend.py
 
 ---
 
-## 📌 Author
+## Author
 
 Md Farhan Naushad  
 GitHub: [@farhannaushad08](https://github.com/farhannaushad08)
 
 ---
 
-## 📝 License
+## License
 
 MIT License. Free to use and modify.
