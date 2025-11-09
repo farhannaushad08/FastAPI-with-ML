@@ -1,15 +1,15 @@
-# 🚀 FastAPI-with-ML
+# FastAPI-with-ML
 
 This repository includes two FastAPI-based microprojects:
 
-1. 🏥 *Patient Management System (CRUD API)*  
-2. 🤖 *Insurance Premium Prediction with ML (API + Frontend)*
+1.  *Patient Management System (CRUD API)*  
+2.  *Insurance Premium Prediction with ML (API + Frontend)*
 
 Both projects are modular and self-contained.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 FastAPI-with-ML/
@@ -31,7 +31,7 @@ FastAPI-with-ML/
 
 ---
 
-## 🏥 1. Patient Management API (fastapi-crud/)
+##  1. Patient Management API (fastapi-crud/)
 
 A complete REST API for managing patients using FastAPI and JSON for storage.
 
@@ -45,7 +45,7 @@ A complete REST API for managing patients using FastAPI and JSON for storage.
 
 ---
 
-## 🤖 2. Insurance Premium ML App (fastapi-ml/)
+##  2. Insurance Premium ML App (fastapi-ml/)
 
 An ML model to classify users into *insurance premium tiers*. Comes with both an API (backend.py) and a Streamlit frontend (frontend.py).
 
@@ -60,7 +60,7 @@ An ML model to classify users into *insurance premium tiers*. Comes with both an
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 Install required packages:
 
@@ -80,6 +80,6 @@ Then run each app from its folder.
 
 ---
 
-## 📝 License
+##  License
 
 This project is open-source under the *MIT License*.
